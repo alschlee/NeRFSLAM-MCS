@@ -1,0 +1,3 @@
+[submodule "NeRF-SLAM"]
+	path = NeRF-SLAM
+	url = https://github.com/ToniRV/NeRF-SLAM.git
